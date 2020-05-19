@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "private": true,
-  "homepage": "http://BhaktiShastri.github.io/Note_Keeper",
+  
   "dependencies": {
     "@material-ui/core": "4.6.1",
     "@material-ui/icons": "4.5.1",
@@ -25,9 +25,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-  	"deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
 
   "eslintConfig": {
